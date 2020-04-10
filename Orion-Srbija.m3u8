@@ -1,0 +1,211 @@
+#EXTM3U refresh="600"
+#EXTINF:-1 country="rs" tvg-id="RTS1.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/rts1.png",RTS 1
+http://mobiletv1serbia.orion.rs:1935/mobileserbia/rts1/tracks-v1a1/mono.m3u8?md5=jdkdzdD54UVa-wpCpg1cfQ&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="RTS2.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/rts2.png",RTS 2
+http://mobiletv1serbia.orion.rs:1935/mobileserbia/rts2/tracks-v1a1/mono.m3u8?md5=Af-lAVF_HHKRPWGleKNZLA&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/b92.png",B92
+http://mobiletv1serbia.orion.rs:1935/mobileserbia/b92/tracks-v1a1/mono.m3u8?md5=1TlFE_gb_LjyVB-e-E7qaA&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="Prva.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/prva.png",Prva
+http://mobiletv1serbia.orion.rs:1935/mobileserbia/prva/tracks-v1a1/mono.m3u8?md5=CsjVFKub7WbxhdiZVFGUNg&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="happytv.sr" tvg-logo="https://mw.maketv.rs/resource/client/logos/happy.png",Happy
+http://mobiletv1serbia.orion.rs:1935/mobileserbia/happy/tracks-v1a1/mono.m3u8?md5=tcX39o9IozRS-0GFyu8olw&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="RTS3.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/rts3.png",RTS 3
+http://mobiletv2serbia.orion.rs:1935/rts3/tracks-v1a1/mono.m3u8?md5=ULZ7V3o2Usu2FL5tDAyfMw&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="AMC.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/amc.png",AMC
+http://mobiletv2serbia.orion.rs:1935/amc/tracks-v1a1/mono.m3u8?md5=Z-lDJlpDZS0MtyNkhIsQxQ&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="AXN.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/axn.png",AXN
+http://mobiletv2serbia.orion.rs:1935/axn/tracks-v1a1/mono.m3u8?md5=X3_UEG4ywk4N_UdjRriqOQ&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="Boomerang.hr" tvg-logo="https://mw.maketv.rs/resource/client/logos/boomerang.png",Boomerang
+http://mobiletv2serbia.orion.rs:1935/boomerang/tracks-v1a1/mono.m3u8?md5=8h9bEHiFPh2lBawxDBVbCw&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="CartoonNetwork.hr" tvg-logo="https://mw.maketv.rs/resource/client/logos/cartoonnetwork.png",Cartoon Network
+http://mobiletv2serbia.orion.rs:1935/cartoonnetwork/tracks-v1a1/mono.m3u8?md5=sgFuJ_ZeBiEECCgawaF6nA&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="Minimax.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/minimax.png",Minimax
+http://mobiletv2serbia.orion.rs:1935/minimax/tracks-v1a1/mono.m3u8?md5=Lynp2T7LFTG1KvcrpNARxw&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="FilmBoxPlus.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/filmplus.png",FilmBox Plus
+http://mobiletv2serbia.orion.rs:1935/filmplus/tracks-v1a1/mono.m3u8?md5=kvdh09fUceqCYVv_NIk_0g&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/arthouse.png",FilmBox Arthouse
+http://mobiletv2serbia.orion.rs:1935/arthouse/tracks-v1a1/mono.m3u8?md5=jHvxSiozEn05azGKVt9b9A&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/prvaworld.png",Prva World
+http://mobiletv2serbia.orion.rs:1935/b92info/tracks-v1a1/mono.m3u8?md5=IuH70rmHFEi0ZRroCOn_vw&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="FilmKlub.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/filmklub.png",Film Klub
+http://mobiletv2serbia.orion.rs:1935/filmklub/tracks-v1a1/mono.m3u8?md5=-lGgcXuGLcsZhd1zEETQLQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/fightbox.png",FightBox
+http://mobiletv2serbia.orion.rs:1935/fightbox/tracks-v1a1/mono.m3u8?md5=ytuq573tDBOixDzdFjNoSQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/fastnfun.png",FastNFun Box
+http://mobiletv2serbia.orion.rs:1935/fastnfun/tracks-v1a1/mono.m3u8?md5=XsMd2SrQ4d5BoFVpHJRbxA&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="SOS.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/sos.png",SOS
+http://mobiletv2serbia.orion.rs:1935/sos/tracks-v1a1/mono.m3u8?md5=lnJ3Hy8nogQ9C2gZETQElQ&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="FashionTV.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/fashiontv.png",Fashion TV
+http://mobiletv2serbia.orion.rs:1935/fashiontv/tracks-v1a1/mono.m3u8?md5=cdppgdRBXizGhROlQyeEJQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/fashionbox.png",FashionBox
+http://mobiletv2serbia.orion.rs:1935/fashionbox/tracks-v1a1/mono.m3u8?md5=yRwb1auHrQmMEGh0NIwYNg&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="MTVAdria.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/mtvadria.png",MTV Adria
+http://mobiletv2serbia.orion.rs:1935/mtvadria/tracks-v1a1/mono.m3u8?md5=nV8LOEzrLpzvgceCX32Irw&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="VH1.hr" tvg-logo="https://mw.maketv.rs/resource/client/logos/vh1.png",VH1
+http://mobiletv2serbia.orion.rs:1935/vh1/tracks-v1a1/mono.m3u8?md5=ftKsgd41OnvHnqIgj7B9RA&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/360tune.png",360TuneBox
+http://mobiletv2serbia.orion.rs:1935/360tune/tracks-v1a1/mono.m3u8?md5=e1-SpYkaJh7JpltN8XgQnQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/kopernikusmusic.png",Kopernikus Music
+http://mobiletv2serbia.orion.rs:1935/kopernikusmusic/tracks-v1a1/mono.m3u8?md5=_HmIRYJXtAQPTsrmEsgbng&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="DMSat.svn" tvg-logo="https://mw.maketv.rs/resource/client/logos/dmsat.png",DM Sat
+http://mobiletv2serbia.orion.rs:1935/dmsat/tracks-v1a1/mono.m3u8?md5=NS-mCDG3f99hRgtm_MT6YQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/exyumelody.png",EXYU Melody
+http://mobiletv2serbia.orion.rs:1935/exyumelody/tracks-v1a1/mono.m3u8?md5=5n6bEjqTV6LQzMo7YAvyEA&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/docubox.png",DocuBox
+http://mobiletv2serbia.orion.rs:1935/docubox/tracks-v1a1/mono.m3u8?md5=bu5pW5US6_XoQj_CYC5Byg&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="CNNInternational.svn" tvg-logo="https://mw.maketv.rs/resource/client/logos/cnn.png",CNN
+http://mobiletv2serbia.orion.rs:1935/cnn/tracks-v1a1/mono.m3u8?md5=KP2r1NoKNw9YOYXlOVPn9Q&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/euronews.png",Euronews
+http://mobiletv2serbia.orion.rs:1935/euronews/tracks-v1a1/mono.m3u8?md5=LZTomNYGTQabhy-UE2A7HQ&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="SkyNews.svn" tvg-logo="https://mw.maketv.rs/resource/client/logos/skynews.png",Sky News
+http://mobiletv2serbia.orion.rs:1935/skynews/tracks-v1a1/mono.m3u8?md5=nOpDCfQuEhRURGWGLZOdbA&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/russiatoday.png",RT
+http://mobiletv2serbia.orion.rs:1935/russiatoday/tracks-v1a1/mono.m3u8?md5=dn2y-7Lh8XUienuKvIaBpA&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/aljazeera.png",Aljazeera
+http://mobiletv2serbia.orion.rs:1935/aljazeera/tracks-v1a1/mono.m3u8?md5=gNZ-AMghBukOXgT39-uReQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/raiuno.png",Rai Uno
+http://mobiletv2serbia.orion.rs:1935/raiuno/tracks-v1a1/mono.m3u8?md5=FcI7I_sObwMq9ZYdhFAZPA&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/rtrplaneta.png",RTR Planeta
+http://mobiletv2serbia.orion.rs:1935/rtrplaneta/tracks-v1a1/mono.m3u8?md5=c2JhbMWVdmdEQ-8LMR3D8w&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/russia24.png",Russia 24
+http://mobiletv2serbia.orion.rs:1935/russia24/tracks-v1a1/mono.m3u8?md5=X8Mqt1QCg9ejv0xHkVQWNg&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/russiatodaydoc.png",RTDoc
+http://mobiletv2serbia.orion.rs:1935/russiatodaydoc/tracks-v1a1/mono.m3u8?md5=f2SZybH3VLVfqx7_YSDwbA&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="Pro7.svn" tvg-logo="https://mw.maketv.rs/resource/client/logos/pro7.png",Pro 7
+http://mobiletv2serbia.orion.rs:1935/pro7/tracks-v1a1/mono.m3u8?md5=NEZrA1msjvBQACkhYfgk8g&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="TV5Monde.svn" tvg-logo="https://mw.maketv.rs/resource/client/logos/tv5monde.png",TV5 Monde
+http://mobiletv2serbia.orion.rs:1935/tv5monde/tracks-v1a1/mono.m3u8?md5=6s0lX0WdxRQ-tGshtVgjPA&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/cctv4europe.png",CCTV4 Europe
+http://mobiletv2serbia.orion.rs:1935/cctv4europe/tracks-v1a1/mono.m3u8?md5=uvERmjNHLWgVRsalCTD91w&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/nasatv.png",Naša TV
+http://mobiletv2serbia.orion.rs:1935/nasatv/tracks-v1a1/mono.m3u8?md5=Kim1rAUvFh8Ug7Od5DpIgQ&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="RTV1.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/rtv1.png",RTV 1
+http://mobiletv2serbia.orion.rs:1935/rtv1/tracks-v1a1/mono.m3u8?md5=XZltb-VsYaDBGt0Ym51pTA&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="RTV2.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/rtv2.png",RTV 2
+http://mobiletv2serbia.orion.rs:1935/rtv2/tracks-v1a1/mono.m3u8?md5=yaJzv_051tUn6itK0sQHbA&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="BKTV.svn" tvg-logo="https://mw.maketv.rs/resource/client/logos/bk.png",BK
+http://mobiletv2serbia.orion.rs:1935/bk/tracks-v1a1/mono.m3u8?md5=58k3VMH46HUqWtcoyC8rcg&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/kopernikus.png",Kopernikus
+http://mobiletv2serbia.orion.rs:1935/kopernikus/tracks-v1a1/mono.m3u8?md5=En2kJnXgl5YU0e_UucZemQ&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="NovaTVhr.svn" tvg-logo="https://mw.maketv.rs/resource/client/logos/nova.png",Nova
+http://mobiletv2serbia.orion.rs:1935/nova/tracks-v1a1/mono.m3u8?md5=q7sT693fEW7NBMGst5tHzw&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/rtvcg.png",RTV CG
+http://mobiletv2serbia.orion.rs:1935/rtvcg/tracks-v1a1/mono.m3u8?md5=1BDUEQPT-J7IQaDXh4XYig&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="HRT1.hr" tvg-logo="https://mw.maketv.rs/resource/client/logos/hrt1.png",HRT 1
+http://mobiletv2serbia.orion.rs:1935/hrt1/tracks-v1a1/mono.m3u8?md5=WABtp9lnr0_J2OfacMVdNg&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="studio-b-yu.sr" tvg-logo="https://mw.maketv.rs/resource/client/logos/studiob.png",Studio B
+http://mobiletv2serbia.orion.rs:1935/studiob/tracks-v1a1/mono.m3u8?md5=DEyHkxIkVauyQlxIphKswg&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/rtvpancevo.png",RTV Pančevo
+http://mobiletv2serbia.orion.rs:1935/rtvpancevo/tracks-v1a1/mono.m3u8?md5=wjOvE22fcBVpELS_8AANiQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/rtvsabac.png",RTV Šabac
+http://mobiletv2serbia.orion.rs:1935/rtvsabac/tracks-v1a1/mono.m3u8?md5=2VUMfK2Qu5XvMSPptk2z1w&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/melos.png",Melos
+http://mobiletv2serbia.orion.rs:1935/melos/tracks-v1a1/mono.m3u8?md5=T1xThZTcUYuh5yK9Ldcs_Q&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/ntv.png",NTV
+http://mobiletv2serbia.orion.rs:1935/ntv/tracks-v1a1/mono.m3u8?md5=7RVe3dqs23nXxBl1gYzuGw&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/palmaplus.png",Palma Plus
+http://mobiletv2serbia.orion.rs:1935/palmaplus/tracks-v1a1/mono.m3u8?md5=SBquEetwuSuH18F-AO0T2A&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/rtvbor.png",RTV Bor
+http://mobiletv2serbia.orion.rs:1935/rtvbor/tracks-v1a1/mono.m3u8?md5=oAH5FqdABXhk-p7eLnXQcw&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/gemlazarevac.png",Gem Lazarevac
+http://mobiletv2serbia.orion.rs:1935/gemlazarevac/tracks-v1a1/mono.m3u8?md5=7lddSz_mruq6x2wyWYDrCw&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/rtvkv.png",RTV Kraljevo
+http://mobiletv2serbia.orion.rs:1935/rtvkv/tracks-v1a1/mono.m3u8?md5=yiQq2L34IbLFa1XbgekDSw&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/mars.png",RTV MARŠ
+http://mobiletv2serbia.orion.rs:1935/mars/tracks-v1a1/mono.m3u8?md5=Yfby77NU7ienNzO5lx3Epg&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/sunce.png",RTV Sunce
+http://mobiletv2serbia.orion.rs:1935/sunce/tracks-v1a1/mono.m3u8?md5=c4oFY5b-MEX6TFJ83auVsw&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/sattv.png",SAT TV
+http://mobiletv2serbia.orion.rs:1935/sattv/tracks-v1a1/mono.m3u8?md5=ZvA7ctMwDMfzhVlqympkhw&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/svetplus.png",Svet Plus
+http://mobiletv2serbia.orion.rs:1935/svetplus/tracks-v1a1/mono.m3u8?md5=j3hK3D3I-KiLx128xs2ObQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/hram.png",Hram
+http://mobiletv2serbia.orion.rs:1935/hram/tracks-v1a1/mono.m3u8?md5=JvxFJkZucaPJ6ZTsh-LeHQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/kanal25.png",Kanal 25
+http://mobiletv2serbia.orion.rs:1935/kanal25/tracks-v1a1/mono.m3u8?md5=yw7_nQeKuQ3z_REwpSQWpw&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/tvmag.png",TV MAG
+http://mobiletv2serbia.orion.rs:1935/tvmag/tracks-v1a1/mono.m3u8?md5=l4M4UnLTmiNNuEnBFUymOQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/mix.png",MIX Kraljevo
+http://mobiletv2serbia.orion.rs:1935/mix/tracks-v1a1/mono.m3u8?md5=obIlm9-x1luCzOkwlGMb0g&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/most.png",Most
+http://mobiletv2serbia.orion.rs:1935/most/tracks-v1a1/mono.m3u8?md5=9QCykbjlv7hXpmou2FlkLw&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/sandzak.png",Sandžak TV
+http://mobiletv2serbia.orion.rs:1935/sandzak/tracks-v1a1/mono.m3u8?md5=vQQpgiifU4ozMgwVn1nYnw&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/yueco.png",Yu Eco
+http://mobiletv2serbia.orion.rs:1935/yueco/tracks-v1a1/mono.m3u8?md5=zA3OW8qcA1NkjsIimxeX5A&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/tvhan.png",TV Han
+http://mobiletv2serbia.orion.rs:1935/tvhan/tracks-v1a1/mono.m3u8?md5=xDwy_qspDkKdWPQrIW__Qg&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/pruga.png",Pruga TV
+http://mobiletv2serbia.orion.rs:1935/pruga/tracks-v1a1/mono.m3u8?md5=5WERUCjn3kpR1141icIZxw&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="DaVinciLearning.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/davincilearning.png",Da Vinci Learning
+http://mobiletv2serbia.orion.rs:1935/davincilearning/tracks-v1a1/mono.m3u8?md5=2AZuxt3oP5ad6-bT_QCDmw&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="JimJam.ba" tvg-logo="https://mw.maketv.rs/resource/client/logos/jimjam.png",JimJam
+http://mobiletv2serbia.orion.rs:1935/jimjam/tracks-v1a1/mono.m3u8?md5=CzY8ITlZ8uVqrT2urM16BQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/viasattv1000.png",TV 1000 
+http://mobiletv2serbia.orion.rs:1935/viasattv1000/tracks-v1a1/mono.m3u8?md5=z4PzvANgatT0CQrqvLyxeA&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="FilmBoxExtra.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/extra.png",FilmBox Extra
+http://mobiletv2serbia.orion.rs:1935/extra/tracks-v1a1/mono.m3u8?md5=yIR40F2wQOMODgp7sgQ4LQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/cinestartv.png",CineStar TV 1
+http://mobiletv2serbia.orion.rs:1935/cinestartv/tracks-v1a1/mono.m3u8?md5=A_Z86E2DOf6KqBgu7PHHOg&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/cinestarat.png",CineStar TV Action
+http://mobiletv2serbia.orion.rs:1935/cinestarat/tracks-v1a1/mono.m3u8?md5=3nRElxtPzq3XfY_-seODYQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/prvafiles.png",Prva Files
+http://mobiletv2serbia.orion.rs:1935/prvafiles/tracks-v1a1/mono.m3u8?md5=2bD8Q6gA9TFMF-kM_Di7jw&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/prvakick.png",Prva Kick
+http://mobiletv2serbia.orion.rs:1935/prvakick/tracks-v1a1/mono.m3u8?md5=NRhazGdUgfjTUUCDIf1Zag&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="Nickelodeon.hr" tvg-logo="https://mw.maketv.rs/resource/client/logos/nickelodeon.png",Nickelodeon
+http://mobiletv2serbia.orion.rs:1935/nickelodeon/tracks-v1a1/mono.m3u8?md5=Cq4qwstai_yVZ1ede2BCeQ&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="DisneyJunior.hr" tvg-logo="https://mw.maketv.rs/resource/client/logos/disneyjunior.png",Disney Junior
+http://mobiletv2serbia.orion.rs:1935/disneyjunior/tracks-v1a1/mono.m3u8?md5=eXI2LaGCUPqnYV-gdO5dBQ&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="BabyTV.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/babytv.png",Baby TV
+http://mobiletv2serbia.orion.rs:1935/babytv/tracks-v1a1/mono.m3u8?md5=NRlIP5MmA4kSSZRoZwelwg&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/viasatexplore.png",Viasat Explore 
+http://mobiletv2serbia.orion.rs:1935/viasatexplore/tracks-v1a1/mono.m3u8?md5=SakBTeWeglQyQZnk1hF9aA&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/viasatnature.png",Viasat Nature 
+http://mobiletv2serbia.orion.rs:1935/viasatnature/tracks-v1a1/mono.m3u8?md5=nyw8VK0gc4rD5wM7qZ9YyQ&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/viasathistory.png",Viasat History 
+http://mobiletv2serbia.orion.rs:1935/viasathistory/tracks-v1a1/mono.m3u8?md5=kvxcgbTNIhao9gGLwLsnqQ&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="NationalGeographic.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/natgeo.png",National Geographic
+http://mobiletv2serbia.orion.rs:1935/natgeo/tracks-v1a1/mono.m3u8?md5=rnXasFVu9Tb3CfmijOSYTg&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="NatGeoWild.hr" tvg-logo="https://mw.maketv.rs/resource/client/logos/natgeowild.png",NatGeo Wild
+http://mobiletv2serbia.orion.rs:1935/natgeowild/tracks-v1a1/mono.m3u8?md5=i_o1lRPay3A2x94z18ii2A&expires=1586599212
+#EXTINF:-1 country="rs" tvg-id="H2.rs" tvg-logo="https://mw.maketv.rs/resource/client/logos/history2.png",History 2
+http://mobiletv2serbia.orion.rs:1935/history2/tracks-v1a1/mono.m3u8?md5=pwY5l8F3s8E-JYqFG9NPTg&expires=1586599212
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/radiobeograd1.png",Radio Beograd 1
+http://178.253.194.100:1935/radio/radiobeograd1/index.m3u8?v=1&k=0&token=97118b7cc2a17cba78f13e25ec70d592f623e62e3282ba8565c66f6a8ce10031&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/radiob92.png",Play Radio
+http://178.253.194.100:1935/radio/radiob92/index.m3u8?v=1&k=0&token=65e9d7730df2662b8b9fae504d8661bbaeca8dbe61bd2dfc2ede85e32fae8b1a&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/tdi.png",TDI radio
+http://178.253.194.100:1935/radio/tdi/index.m3u8?v=1&k=0&token=4c5909034876eef0e80ba99bec98d869dca46b2afd15cff55f974c3ea4fcbb3e&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/topfm.png",TOP FM
+http://178.253.194.100:1935/radio/topfm/index.m3u8?v=1&k=0&token=9adfc4e79473b1f18de8ded3f5dc37407b36260e51b1163c7910508d284eff12&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/radios2.png",Radio S2
+http://178.253.194.100:1935/radio/radios2/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/radionovosti.png",Radio Novosti
+http://178.253.194.100:1935/radio/radionovosti/index.m3u8?v=1&k=0&token=a71dd0e198a7d2b819b0186cb740c8e2f0a13cadf0896807cf86a76f40361e83&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/radiostudiob.png",Radio Studio B
+http://178.253.194.100:1935/radio/radiostudiob/index.m3u8?v=1&k=0&token=173e2024fc7a0b12f4d14a7706c038de5ce5734f97b38e89bb5fb3a8b2b19cf&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/radio202.png",Radio Beograd 202
+http://178.253.194.100:1935/radio/radio202/index.m3u8?v=1&k=0&token=3eb1cb6a090bf12496cf5bac6675061ef725607856a4cb27338c283170e07de1&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/radiolaguna.png",Radio Laguna
+http://178.253.194.100:1935/radio/radiolaguna/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/radio3.png",Radio 3
+http://178.253.194.100:1935/radio/radio3/index.m3u8?v=1&k=0&token=e8cc5bee330060d1f3b95aaa3cc9270838346b66c5d7b7484cc74a4ad1b2fc12&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/radioas.png",Radio AS
+http://178.253.194.100:1935/radio/radioas/index.m3u8?v=1&k=0&token=2ec168a6b6049e901380eae4bc99ed63c72156fe034a9e6aa4cb98e5667d4a2e&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/radios.png",Radio S
+http://178.253.194.100:1935/radio/radios/index.m3u8?v=1&k=0&token=fd8d9d0031dc42a28014836bbb23cc35df081ee6080ceffe85dab69f73e0b4c7&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/rockradio.png",Rock Radio
+http://178.253.194.100:1935/radio/rockradio/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/naxiradio.png",Naxi Radio
+http://178.253.194.100:1935/radio/naxiradio/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/radiobeograd2.png",Radio Beograd 2
+http://178.253.194.100:1935/radio/radiobeograd2/index.m3u8?v=1&k=0&token=3ea69b7d8084f5e7753bc77f4ac82e89f17ca7cdeca8443b9c5e686d41abf918&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/hitfmradio.png",Hit FM
+http://178.253.194.100:1935/radio/hitfmradio/index.m3u8?v=1&k=0&token=7e26128f391bba7194347ebbf8aed8561dae209eaa4e701c0ed9c4c874689f44&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/radiojat.png",Radio JAT
+http://178.253.194.100:1935/radio/radiojat/index.m3u8?v=1&k=0&token=dded5e67aaa78f50d00bf1bec25734d1f44e3ec9a2dd323e4162744163ba881a&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/radiokarolina.png",Radio Karolina
+http://178.253.194.100:1935/radio/radiokarolina/index.m3u8?v=1&k=0&token=e9bd14ed28f05a3e2dc3bcd0d9caa7b440949fa0021d5dc1d2d54f564d5144f2&ak=5627595&time=1586512810148
+#EXTINF:-1 tvg-logo="https://mw.maketv.rs/resource/client/logos/superfmradio.png",Super FM
+http://178.253.194.100:1935/radio/superfmradio/index.m3u8?v=1&k=0&token=5627595-superfmradio-1586512812-ec5fb0e3efedc04a377fba80293ab51ac1fa1db94b0407fb15ab721521cac889
